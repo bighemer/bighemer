@@ -1,4 +1,4 @@
-<h1 align="center">Olá, mundo! 👋 Eu sou o [Hemerson]</h1>
+<h1 align="center">Olá, mundo! 👋 Eu sou o Hemerson </h1>
 
 <p align="center">
   <em>Bacharel em direito, Pesquisador e Desenvolvedor • Investigando as fronteiras entre Humanidades Digitais, Arquivos e Inteligência Artificial.</em>
