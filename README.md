@@ -41,7 +41,9 @@
 ---
 
 <p align="center">
-  📫 Como me encontrar: <a href="mailto:seu-email@exemplo.com">E-mail</a> | 
-  <a href="https://linkedin.com/in/seu-usuario" target="_blank">LinkedIn</a> | 
-  <a href="https://seu-substack.substack.com" target="_blank">Substack</a>
+  📫 Como me encontrar: 
+  <a href="mailto:bighemer@gmail.com">E-mail</a> | 
+  <a href="https://instagram.com/bighemer" target="_blank">Instagram</a> | 
+  <a href="https://behance.net/hemersondev" target="_blank">Behance</a> | 
+  <a href="https://substack.com/@bighemer" target="_blank">Substack</a>
 </p>
