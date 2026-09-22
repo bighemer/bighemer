@@ -38,7 +38,7 @@
 > 
 > <div align="center">
 >   <br>
->   <a href="[https://github.com/bighemer/wordpress-portfolio)">
+>   <a href="https://github.com/bighemer/wordpress-portfolio">
 >     <img src="https://img.shields.io/badge/🚀_ACESSAR_PORTFÓLIO_WORDPRESS-Clique_Aqui-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Portfólio WordPress" />
 >   </a>
 > </div>
