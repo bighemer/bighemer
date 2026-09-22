@@ -29,14 +29,6 @@
 | **IA & Modelos** | Integração de LLMs, Processamento de Linguagem Natural (NLP) aplicado a textos históricos |
 | **Ecossistema & Produtividade** | Obsidian, Zotero, Linux, Ambientes de Pesquisa Reproduzíveis |
 
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 ---
 
